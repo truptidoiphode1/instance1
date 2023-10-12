@@ -1,0 +1,29 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+{
+    font-family: "Helvetica";
+    font-weight: 400;
+    line-height: 1.1;
+    color: #21272b;
+}
+
+ul {
+    color: #222020;
+}
+
+* {
+     font-family: 'Helvetica';
+}
+
+.custom-hover:hover{
+    background-color:#d54c58;
+    color:white;
+}
+.al-hover:hover{
+    background-color:#7e2778;
+    color:white;
+}
